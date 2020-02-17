@@ -1,11 +1,9 @@
 # twitchTvClone
 
-# update with specs soon
-
 ## Synopsis
 
 A work in progress clone of Twitch Tv. The goal is to also allow a user to have multiple channels for different types 
-of content - programming, video games etc.
+of content - programming, video games etc. And to allow Google auth for login.
 
 
 ## Motivation
