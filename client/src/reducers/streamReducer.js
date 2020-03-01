@@ -10,6 +10,8 @@ import {
 
 export default (state = {}, action) => {
   switch (action.type) {
+    case FETCH_STREAMS:
+      return { ...state, ..._.mapKeys(action.payload, 'id') }
     case FETCH_STREAM:
       //adds new key value pair to current state using key interpolation
       return { ...state, [action.payload.id]: action.payload }
