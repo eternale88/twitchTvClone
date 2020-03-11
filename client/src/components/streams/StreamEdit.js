@@ -1,6 +1,6 @@
 import React from 'react'
 
-const StreamEdit = () => {
+const StreamEdit = (props) => {
   return <div>StreamEdit</div>
 }
 
