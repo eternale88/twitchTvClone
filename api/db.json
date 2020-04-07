@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Programmatic Navigation",
+      "description": "You are seeing this on the form page",
+      "userId": "116593454982408010778",
+      "id": 2
+    },
+    {
+      "title": "Hello World",
+      "description": "This is a channel!!!",
+      "userId": "116593454982408010778",
+      "id": 3
+    },
+    {
+      "title": "I am getting close to finishing this tutorial!!!",
+      "description": "Cool",
+      "userId": "116593454982408010778",
+      "id": 4
+    }
+  ]
+}
